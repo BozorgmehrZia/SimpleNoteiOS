@@ -1,5 +1,5 @@
 # SimpleNoteiOS
-Mobile Project for iOS
+Mobile Project for IOS
 Sharif University of Technology
 
 ## Contributers
